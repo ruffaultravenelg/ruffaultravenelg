@@ -5,8 +5,12 @@
 
 📍IUT Laval - Le Mans Université
 
+🌐 [Portfolio](https://gemino.dev)
+
 ---
 
-👉 Mon language de programmation ✨**Lim**✨
+👉 Mon language de programmation ✨[**Lim**](https://github.com/ruffaultravenelg/limc)✨
 
-👉 Mon application de TODO ✨[**Tomorrow**](https://tomorrow-lens.web.app/)✨
+👉 Mons service de partage de fichier ✨[**Senty**](https://senty.gemino.dev/)✨
+
+👉 Mon ✨[**emplois du temps**](https://edt.gemino.dev/)✨
