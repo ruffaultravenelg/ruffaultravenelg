@@ -1,16 +1,26 @@
 # Salut, moi c'est Gémino 👋
 
+📗 Étudiant en BUT Informatique  
+📍 IUT Laval - Le Mans Université  
 
-📗Etudiant en BUT Informatique
-
-📍IUT Laval - Le Mans Université
-
-🌐 [Portfolio](https://gemino.dev)
+🌐 [Portfolio](https://gemino.dev)  
 
 ---
 
-👉 Mon language de programmation ✨[**Lim**](https://github.com/ruffaultravenelg/limc)✨
+### 🚀 Projets
 
-👉 Mons service de partage de fichier ✨[**Senty**](https://senty.gemino.dev/)✨
+👉 Mon langage de programmation ✨[**Lim**](https://github.com/ruffaultravenelg/limc)✨ (en cours de développement)  
 
-👉 Mon ✨[**emplois du temps**](https://edt.gemino.dev/)✨
+🕹️ Un ✨[**petit jeu**](https://github.com/ruffaultravenelg/ColorGamberge)✨ mobile développé en kotlin.
+
+💳 Un projet collaboratif de gestion de cartes prépayées :  
+- [**Frontend**](https://github.com/ruffaultravenelg/adiilpay)  
+- [**Backend**](https://github.com/AdiilPay/prepaidCardsBackend)  
+
+📓 Mon ✨[**emploi du temps**](https://edt.gemino.dev/)✨  
+
+---
+
+### 🎓 Formations  
+
+📚 **BUT Informatique** – IUT de Laval (Le Mans Université)  
